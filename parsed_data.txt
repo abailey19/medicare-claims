@@ -1,0 +1,997 @@
+Patient ID: 20140000008325
+Patient name: Doe, Jane X
+Patient gender: unknown
+Patient birth date: 2014-06-01
+Patient race: White
+Patient address: District code 999, State code 15, Postal code 99999
+
+CLAIM 1: 
+Claim ID: carrier-20587716665
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Care Team: 
+Providers: 
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 25072
+	 Display: DMII CIRC UNCNTRLD
+Diagnosis 1: 
+	 Code: 41400
+	 Display: COR ATH UNSP VSL NTV/GFT
+Diagnosis 2: 
+	 Code: 4439
+	 Display: PERIPH VASCULAR DIS NOS
+Diagnosis 3: 
+	 Code: 40290
+	 Display: HYP HRT DIS NOS W/O HF
+Diagnosis 4: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: M1B
+	 Display: Office visits - established
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 3
+	 Code: 99214
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 150.0 USD	 Allowed Charges: 100.0 USD
+Item 2: 
+Procedure: 
+	 Code: Z2
+	 Display: Undefined codes
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 3
+	 Code: 4086F
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 0.0 USD	 Allowed Charges: 0.0 USD
+Item 3: 
+Procedure: 
+	 Code: Z2
+	 Display: Undefined codes
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 3
+	 Code: 1123F
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 0.0 USD	 Allowed Charges: 0.0 USD
+Item 4: 
+Procedure: 
+	 Code: M5D
+	 Display: Specialist - other
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 3
+	 Code: G8506
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 0.0 USD	 Allowed Charges: 0.0 USD
+Item 5: 
+Procedure: 
+	 Code: M5D
+	 Display: Specialist - other
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 3
+	 Code: G8419
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 0.0 USD	 Allowed Charges: 0.0 USD
+Item 6: 
+Procedure: 
+	 Code: Z2
+	 Display: Undefined codes
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 3
+	 Code: 1036F
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 0.0 USD	 Allowed Charges: 0.0 USD
+
+
+CLAIM 2: 
+Claim ID: carrier-20707791705
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Care Team: 
+Providers: 
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 72703
+	 Display: TRIGGER FINGER
+Diagnosis 1: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: M1B
+	 Display: Office visits - established
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 4
+	 Code: 99214
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 200.0 USD	 Allowed Charges: 100.0 USD
+Item 2: 
+Procedure: 
+	 Code: P6B
+	 Display: Minor procedures - musculoskeletal
+
+Treatment: 
+Type of service: 
+	 Code: 2
+	 Display: Surgery
+Service: 
+	 Version: 4
+	 Code: 20550
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 150.0 USD	 Allowed Charges: 60.0 USD
+Item 3: 
+Procedure: 
+	 Code: O1E
+	 Display: Other drugs
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 4
+	 Code: J0702
+
+Service period: 
+	 Start date: 2014-03-01
+	 End date: 2014-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 20.0 USD	 Allowed Charges: 10.0 USD
+
+
+CLAIM 3: 
+Claim ID: carrier-20945302182
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-05-01
+	 End date: 2014-05-01
+
+Care Team: 
+Providers: 
+	 Code: 5
+	 Clinics (multiple specialties)
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 1724
+	 Display: MAL MELANOMA SCALP/NECK
+Diagnosis 1: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: T1G
+	 Display: Lab tests - other (Medicare fee schedule)
+
+Treatment: 
+Type of service: 
+	 Code: 5
+	 Display: Diagnostic laboratory
+Service: 
+	 Version: 4
+	 Code: 88305
+
+Service period: 
+	 Start date: 2014-05-01
+	 End date: 2014-05-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 150.0 USD	 Allowed Charges: 70.0 USD
+
+
+CLAIM 4: 
+Claim ID: carrier-20956105907
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-05-01
+	 End date: 2014-05-01
+
+Care Team: 
+Providers: 
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 2382
+	 Display: UNC BEHAV NEO SKIN
+Diagnosis 1: 
+	 Code: 70909
+	 Display: OTHER DYSCHROMIA
+Diagnosis 2: 
+	 Code: 2165
+	 Display: BENIGN NEO SKIN TRUNK
+Diagnosis 3: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: M1A
+	 Display: Office visits - new
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 4
+	 Code: 99202
+
+Service period: 
+	 Start date: 2014-05-01
+	 End date: 2014-05-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 100.0 USD	 Allowed Charges: 70.0 USD
+Item 2: 
+Procedure: 
+	 Code: P6A
+	 Display: Minor procedures - skin
+
+Treatment: 
+Type of service: 
+	 Code: 2
+	 Display: Surgery
+Service: 
+	 Version: 4
+	 Code: 11100
+
+Service period: 
+	 Start date: 2014-05-01
+	 End date: 2014-05-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 150.0 USD	 Allowed Charges: 100.0 USD
+
+
+CLAIM 5: 
+Claim ID: carrier-20956105914
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-06-01
+	 End date: 2014-06-01
+
+Care Team: 
+Providers: 
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 1724
+	 Display: MAL MELANOMA SCALP/NECK
+Diagnosis 1: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: P5A
+	 Display: Ambulatory procedures - skin
+
+Treatment: 
+Type of service: 
+	 Code: 2
+	 Display: Surgery
+Service: 
+	 Version: 4
+	 Code: 11623
+
+Service period: 
+	 Start date: 2014-06-01
+	 End date: 2014-06-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 400.0 USD	 Allowed Charges: 150.0 USD
+Item 2: 
+Procedure: 
+	 Code: P5A
+	 Display: Ambulatory procedures - skin
+
+Treatment: 
+Type of service: 
+	 Code: 2
+	 Display: Surgery
+Service: 
+	 Version: 4
+	 Code: 13132
+
+Service period: 
+	 Start date: 2014-06-01
+	 End date: 2014-06-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 800.0 USD	 Allowed Charges: 450.0 USD
+Item 3: 
+Procedure: 
+	 Code: P6B
+	 Display: Minor procedures - musculoskeletal
+
+Treatment: 
+Type of service: 
+	 Code: 2
+	 Display: Surgery
+Service: 
+	 Version: 4
+	 Code: 13133
+
+Service period: 
+	 Start date: 2014-06-01
+	 End date: 2014-06-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 200.0 USD	 Allowed Charges: 150.0 USD
+
+
+CLAIM 6: 
+Claim ID: carrier-20989445930
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-06-01
+	 End date: 2014-06-01
+
+Care Team: 
+Providers: 
+	 Code: 5
+	 Clinics (multiple specialties)
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 7092
+	 Display: SCAR & FIBROSIS OF SKIN
+Diagnosis 1: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: T1G
+	 Display: Lab tests - other (Medicare fee schedule)
+
+Treatment: 
+Type of service: 
+	 Code: 5
+	 Display: Diagnostic laboratory
+Service: 
+	 Version: 4
+	 Code: 88305
+
+Service period: 
+	 Start date: 2014-06-01
+	 End date: 2014-06-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 150.0 USD	 Allowed Charges: 70.0 USD
+
+
+CLAIM 7: 
+Claim ID: carrier-21126565981
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-07-01
+	 End date: 2014-07-01
+
+Care Team: 
+Providers: 
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 1724
+	 Display: MAL MELANOMA SCALP/NECK
+Diagnosis 1: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: I1A
+	 Display: Standard imaging - chest
+
+Treatment: 
+Type of service: 
+	 Code: 4
+	 Display: Diagnostic radiology
+Service: 
+	 Version: 4
+	 Code: 71020
+
+Service period: 
+	 Start date: 2014-07-01
+	 End date: 2014-07-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 10.0 USD	 Allowed Charges: 10.0 USD
+
+
+CLAIM 8: 
+Claim ID: carrier-21366012370
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-10-01
+	 End date: 2014-10-01
+
+Care Team: 
+Providers: 
+	 Code: 0
+	 Clinics, groups, associations, partnerships, or other entities
+	 Code: 0
+	 Clinics, groups, associations, partnerships, or other entities
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 25002
+	 Display: DMII WO CMP UNCNTRLD
+Diagnosis 1: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: T1B
+	 Display: Lab tests - automated general profiles
+
+Treatment: 
+Type of service: 
+	 Code: 5
+	 Display: Diagnostic laboratory
+Service: 
+	 Version: 4
+	 Code: 80053
+
+Service period: 
+	 Start date: 2014-10-01
+	 End date: 2014-10-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 30.0 USD	 Allowed Charges: 10.0 USD
+Item 2: 
+Procedure: 
+	 Code: T1H
+	 Display: Lab tests - other (non-Medicare fee schedule)
+
+Treatment: 
+Type of service: 
+	 Code: 5
+	 Display: Diagnostic laboratory
+Service: 
+	 Version: 4
+	 Code: 80061
+
+Service period: 
+	 Start date: 2014-10-01
+	 End date: 2014-10-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 50.0 USD	 Allowed Charges: 10.0 USD
+
+
+CLAIM 9: 
+Claim ID: carrier-21513766042
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2014-12-01
+	 End date: 2014-12-01
+
+Care Team: 
+Providers: 
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 49391
+	 Display: ASTHMA W STATUS ASTHMAT
+Diagnosis 1: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: M1B
+	 Display: Office visits - established
+
+Treatment: 
+Type of service: 
+	 Code: 1
+	 Display: Medical care
+Service: 
+	 Version: 4
+	 Code: 99214
+
+Service period: 
+	 Start date: 2014-12-01
+	 End date: 2014-12-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 150.0 USD	 Allowed Charges: 100.0 USD
+
+
+CLAIM 10: 
+Claim ID: carrier-21856079985
+Patient ID: 20140000008325
+Claim Type: 
+	Code: 71
+	Display: Local carrier non-durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) claim
+	EOB type: CARRIER 
+	Record Code: O
+	Record Display: Part B physician/supplier claim record (processed by local carriers; can include DMEPOS services)
+Service period: 
+	 Start date: 2015-03-01
+	 End date: 2015-03-01
+
+Care Team: 
+Providers: 
+	 Code: 1
+	 Physicians or suppliers reporting as solo practitioners
+Provider 1: 
+	 Provider identifier: 999999999999
+	 Provider role: 
+		Code: primary
+		Display: Primary provider
+	 Provider qualification code: 999
+
+Diagnoses:
+Diagnosis 0 (principal diagnosis): 
+	 Code: 2449
+	 Display: HYPOTHYROIDISM NOS
+Diagnosis 1: 
+	 Code: 78079
+	 Display: MALAISE AND FATIGUE NEC
+Diagnosis 2: 
+	 Code: 9999999
+Item 1: 
+Procedure: 
+	 Code: T1A
+	 Display: Lab tests - routine venipuncture (non-Medicare fee schedule)
+
+Treatment: 
+Type of service: 
+	 Code: 5
+	 Display: Diagnostic laboratory
+Service: 
+	 Version: 5
+	 Code: 36415
+
+Service period: 
+	 Start date: 2015-03-01
+	 End date: 2015-03-01
+
+Location: 
+State: 
+	 Code: 99
+	 Display: With 000 county code is American Samoa; otherwise unknown
+ZIP Code: 
+	 Code: 999999999
+Locality: 
+	 Code: 99
+Place of Service (type of facility): 
+	 Code: 99
+	 Display: Other Place of Service. Other place of service not identified above.
+Cost Information: 
+	 Submitted Charges: 10.0 USD	 Allowed Charges: 0.0 USD
+
+
